@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class DaterangepickerAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/npm/daterangepicker';
+    public $sourcePath = '@npm/daterangepicker';
 
     public $css = [
         'daterangepicker.css',
