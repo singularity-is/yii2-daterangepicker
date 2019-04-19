@@ -81,6 +81,6 @@ The BSD License (BSD). Please see [License File](LICENSE.md) for more informatio
 
 <blockquote>
     <a href="https://singularity.is"><img src="http://www.gravatar.com/avatar/8663d48ea6093d2ce917217ceeca1cc2.png"></a><br>
-    <i>#BeyondSoftware</i><br>
+    <i>#InventTomorrow</i><br>
     <a href="https://www.singularity.is">www.singularity.is</a>
 </blockquote>
