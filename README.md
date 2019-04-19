@@ -79,8 +79,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 The BSD License (BSD). Please see [License File](LICENSE.md) for more information.
 
-<blockquote>
-    <a href="https://singularity.is"><img src="http://www.gravatar.com/avatar/8663d48ea6093d2ce917217ceeca1cc2.png"></a><br>
-    <i>#InventTomorrow</i><br>
-    <a href="https://www.singularity.is">www.singularity.is</a>
-</blockquote>
+
+<a href="https://singularity.is"><img src="http://www.gravatar.com/avatar/8663d48ea6093d2ce917217ceeca1cc2.png"></a><br>
+<i>#InventTomorrow</i><br>
+<a href="https://www.singularity.is">www.singularity.is</a>
