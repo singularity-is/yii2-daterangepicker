@@ -22,8 +22,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.13",
-        "yiisoft/yii2-bootstrap4": "~1.0.0",
+        "yiisoft/yii2": "~2.0.28",
+        "yiisoft/yii2-bootstrap4": "^2.0.8 ",
         "npm-asset/daterangepicker": "3.0.3"
     },
     "require-dev": {
